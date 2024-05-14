@@ -33,3 +33,10 @@
 .homele::-webkit-scrollbar{
     display: none;
 }
+@media (max-width: 480px){
+    .homele .profile{
+        width: 100%;
+        height: 10vh;
+        
+    }
+}
